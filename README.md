@@ -1,4 +1,4 @@
-# Python Practical Test 2
+# Python Practical Test
 
 ### Run the following commands to get started:
 ```
